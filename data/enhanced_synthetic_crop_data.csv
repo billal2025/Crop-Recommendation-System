@@ -1,0 +1,201 @@
+Crop,Problem,Season,Location,Weather,Soil Type,Pest Type,Recommendation
+Wheat,Nutrient deficiency,Winter,Region A,Hot,Black,None,Apply nitrogen-based fertilizer
+Rice,Fungal disease,Summer,Region D,Humid,Clay,None,Use antifungal spray ABC
+Wheat,Pest infestation,Summer,Region B,Rainy,Saline,Stink Bugs,Use appropriate pesticide XYZ based on pest type
+Tomato,Drought,Spring,Region C,Rainy,Laterite,None,Increase irrigation frequency
+Corn,Fungal disease,Autumn,Region D,Hot,Black,None,Use antifungal spray ABC
+Potato,Nutrient deficiency,Summer,Region D,Humid,Silty,None,Apply nitrogen-based fertilizer
+Rice,Pest infestation,Spring,Region A,Rainy,Sandy,Stink Bugs,Use appropriate pesticide XYZ based on pest type
+Tomato,Pest infestation,Summer,Region A,Hot,Clay,Fruit Flies,Use appropriate pesticide XYZ based on pest type
+Tomato,Nutrient deficiency,Winter,Region B,Dry,Laterite,None,Apply nitrogen-based fertilizer
+Potato,Weed overgrowth,Autumn,Region B,Hot,Chalky,None,Manual weeding or herbicide application
+Wheat,Nutrient deficiency,Summer,Region D,Rainy,Peaty,None,Apply nitrogen-based fertilizer
+Tomato,Pest infestation,Winter,Region D,Hot,Chalky,Aphids,Use appropriate pesticide XYZ based on pest type
+Rice,Weed overgrowth,Autumn,Region D,Dry,Clay,None,Manual weeding or herbicide application
+Wheat,Fungal disease,Autumn,Region C,Humid,Loamy,None,Use antifungal spray ABC
+Potato,Fungal disease,Winter,Region C,Rainy,Loamy,None,Use antifungal spray ABC
+Wheat,Fungal disease,Winter,Region B,Rainy,Black,None,Use antifungal spray ABC
+Rice,Nutrient deficiency,Winter,Region B,Hot,Saline,None,Apply nitrogen-based fertilizer
+Wheat,Pest infestation,Summer,Region B,Humid,Saline,Cabbage Loopers,Use appropriate pesticide XYZ based on pest type
+Potato,Drought,Summer,Region A,Rainy,Laterite,None,Increase irrigation frequency
+Corn,Drought,Spring,Region A,Dry,Clay,None,Increase irrigation frequency
+Corn,Pest infestation,Summer,Region C,Hot,Saline,Aphids,Use appropriate pesticide XYZ based on pest type
+Tomato,Pest infestation,Winter,Region A,Rainy,Black,Armyworms,Use appropriate pesticide XYZ based on pest type
+Tomato,Drought,Winter,Region C,Rainy,Loamy,None,Increase irrigation frequency
+Potato,Drought,Autumn,Region B,Dry,Clay,None,Increase irrigation frequency
+Potato,Drought,Summer,Region D,Rainy,Clay,None,Increase irrigation frequency
+Tomato,Drought,Summer,Region D,Rainy,Laterite,None,Increase irrigation frequency
+Tomato,Drought,Summer,Region D,Dry,Peaty,None,Increase irrigation frequency
+Rice,Pest infestation,Spring,Region B,Hot,Peaty,Root-Knot Nematodes,Use appropriate pesticide XYZ based on pest type
+Tomato,Pest infestation,Autumn,Region A,Rainy,Saline,Root-Knot Nematodes,Use appropriate pesticide XYZ based on pest type
+Tomato,Drought,Spring,Region C,Hot,Silty,None,Increase irrigation frequency
+Wheat,Fungal disease,Summer,Region B,Humid,Silty,None,Use antifungal spray ABC
+Corn,Nutrient deficiency,Winter,Region C,Dry,Peaty,None,Apply nitrogen-based fertilizer
+Rice,Pest infestation,Autumn,Region A,Humid,Chalky,Whiteflies,Use appropriate pesticide XYZ based on pest type
+Corn,Pest infestation,Winter,Region D,Rainy,Chalky,Fruit Flies,Use appropriate pesticide XYZ based on pest type
+Potato,Fungal disease,Spring,Region C,Humid,Silty,None,Use antifungal spray ABC
+Corn,Nutrient deficiency,Spring,Region C,Humid,Loamy,None,Apply nitrogen-based fertilizer
+Corn,Weed overgrowth,Summer,Region D,Dry,Saline,None,Manual weeding or herbicide application
+Corn,Drought,Summer,Region C,Hot,Silty,None,Increase irrigation frequency
+Tomato,Weed overgrowth,Winter,Region D,Humid,Black,None,Manual weeding or herbicide application
+Rice,Drought,Summer,Region D,Dry,Sandy,None,Increase irrigation frequency
+Tomato,Nutrient deficiency,Winter,Region C,Hot,Loamy,None,Apply nitrogen-based fertilizer
+Potato,Weed overgrowth,Spring,Region C,Dry,Clay,None,Manual weeding or herbicide application
+Potato,Drought,Winter,Region D,Hot,Peaty,None,Increase irrigation frequency
+Potato,Fungal disease,Winter,Region C,Hot,Black,None,Use antifungal spray ABC
+Potato,Weed overgrowth,Summer,Region D,Rainy,Chalky,None,Manual weeding or herbicide application
+Potato,Fungal disease,Spring,Region B,Hot,Silty,None,Use antifungal spray ABC
+Potato,Drought,Spring,Region D,Hot,Black,None,Increase irrigation frequency
+Rice,Weed overgrowth,Winter,Region D,Rainy,Clay,None,Manual weeding or herbicide application
+Potato,Pest infestation,Summer,Region C,Rainy,Chalky,Root-Knot Nematodes,Use appropriate pesticide XYZ based on pest type
+Corn,Fungal disease,Spring,Region C,Rainy,Silty,None,Use antifungal spray ABC
+Tomato,Pest infestation,Summer,Region D,Hot,Laterite,Stink Bugs,Use appropriate pesticide XYZ based on pest type
+Wheat,Weed overgrowth,Winter,Region D,Hot,Clay,None,Manual weeding or herbicide application
+Rice,Pest infestation,Autumn,Region B,Hot,Loamy,Cabbage Loopers,Use appropriate pesticide XYZ based on pest type
+Corn,Weed overgrowth,Winter,Region B,Rainy,Silty,None,Manual weeding or herbicide application
+Potato,Drought,Winter,Region A,Dry,Black,None,Increase irrigation frequency
+Corn,Nutrient deficiency,Summer,Region C,Dry,Loamy,None,Apply nitrogen-based fertilizer
+Wheat,Weed overgrowth,Autumn,Region C,Rainy,Silty,None,Manual weeding or herbicide application
+Wheat,Nutrient deficiency,Autumn,Region D,Hot,Peaty,None,Apply nitrogen-based fertilizer
+Tomato,Drought,Winter,Region A,Hot,Loamy,None,Increase irrigation frequency
+Rice,Nutrient deficiency,Spring,Region D,Rainy,Loamy,None,Apply nitrogen-based fertilizer
+Corn,Pest infestation,Spring,Region D,Humid,Peaty,Spider Mites,Use appropriate pesticide XYZ based on pest type
+Corn,Fungal disease,Winter,Region A,Hot,Loamy,None,Use antifungal spray ABC
+Potato,Fungal disease,Spring,Region C,Dry,Clay,None,Use antifungal spray ABC
+Corn,Nutrient deficiency,Autumn,Region C,Humid,Sandy,None,Apply nitrogen-based fertilizer
+Corn,Drought,Autumn,Region A,Humid,Loamy,None,Increase irrigation frequency
+Tomato,Weed overgrowth,Spring,Region C,Hot,Sandy,None,Manual weeding or herbicide application
+Tomato,Pest infestation,Spring,Region A,Rainy,Clay,Aphids,Use appropriate pesticide XYZ based on pest type
+Tomato,Fungal disease,Autumn,Region D,Dry,Chalky,None,Use antifungal spray ABC
+Corn,Fungal disease,Winter,Region D,Dry,Peaty,None,Use antifungal spray ABC
+Potato,Pest infestation,Spring,Region D,Hot,Saline,Spider Mites,Use appropriate pesticide XYZ based on pest type
+Tomato,Drought,Spring,Region A,Hot,Saline,None,Increase irrigation frequency
+Tomato,Nutrient deficiency,Autumn,Region A,Humid,Laterite,None,Apply nitrogen-based fertilizer
+Tomato,Weed overgrowth,Spring,Region A,Humid,Sandy,None,Manual weeding or herbicide application
+Corn,Weed overgrowth,Spring,Region C,Rainy,Loamy,None,Manual weeding or herbicide application
+Wheat,Fungal disease,Winter,Region C,Dry,Laterite,None,Use antifungal spray ABC
+Tomato,Drought,Winter,Region B,Rainy,Saline,None,Increase irrigation frequency
+Corn,Drought,Spring,Region C,Hot,Sandy,None,Increase irrigation frequency
+Tomato,Weed overgrowth,Summer,Region A,Dry,Saline,None,Manual weeding or herbicide application
+Potato,Fungal disease,Summer,Region C,Hot,Loamy,None,Use antifungal spray ABC
+Tomato,Weed overgrowth,Spring,Region D,Rainy,Chalky,None,Manual weeding or herbicide application
+Tomato,Weed overgrowth,Winter,Region A,Humid,Laterite,None,Manual weeding or herbicide application
+Tomato,Drought,Spring,Region A,Rainy,Peaty,None,Increase irrigation frequency
+Potato,Drought,Autumn,Region B,Humid,Chalky,None,Increase irrigation frequency
+Corn,Nutrient deficiency,Autumn,Region B,Hot,Clay,None,Apply nitrogen-based fertilizer
+Potato,Drought,Autumn,Region A,Humid,Laterite,None,Increase irrigation frequency
+Rice,Fungal disease,Spring,Region A,Hot,Clay,None,Use antifungal spray ABC
+Corn,Nutrient deficiency,Summer,Region A,Hot,Black,None,Apply nitrogen-based fertilizer
+Wheat,Pest infestation,Spring,Region A,Dry,Saline,Stink Bugs,Use appropriate pesticide XYZ based on pest type
+Rice,Pest infestation,Spring,Region B,Hot,Peaty,Aphids,Use appropriate pesticide XYZ based on pest type
+Rice,Drought,Summer,Region A,Rainy,Clay,None,Increase irrigation frequency
+Tomato,Fungal disease,Summer,Region B,Dry,Sandy,None,Use antifungal spray ABC
+Rice,Pest infestation,Spring,Region A,Rainy,Saline,Stink Bugs,Use appropriate pesticide XYZ based on pest type
+Potato,Weed overgrowth,Spring,Region A,Rainy,Sandy,None,Manual weeding or herbicide application
+Corn,Drought,Autumn,Region C,Dry,Clay,None,Increase irrigation frequency
+Wheat,Pest infestation,Summer,Region B,Hot,Clay,Armyworms,Use appropriate pesticide XYZ based on pest type
+Wheat,Weed overgrowth,Spring,Region D,Rainy,Loamy,None,Manual weeding or herbicide application
+Rice,Nutrient deficiency,Winter,Region C,Humid,Peaty,None,Apply nitrogen-based fertilizer
+Wheat,Fungal disease,Spring,Region D,Rainy,Saline,None,Use antifungal spray ABC
+Rice,Fungal disease,Spring,Region C,Hot,Saline,None,Use antifungal spray ABC
+Corn,Fungal disease,Spring,Region D,Humid,Black,None,Use antifungal spray ABC
+Corn,Nutrient deficiency,Winter,Region A,Dry,Black,None,Apply nitrogen-based fertilizer
+Potato,Drought,Winter,Region A,Hot,Sandy,None,Increase irrigation frequency
+Corn,Weed overgrowth,Autumn,Region C,Dry,Black,None,Manual weeding or herbicide application
+Tomato,Nutrient deficiency,Winter,Region D,Rainy,Peaty,None,Apply nitrogen-based fertilizer
+Tomato,Nutrient deficiency,Summer,Region D,Dry,Sandy,None,Apply nitrogen-based fertilizer
+Corn,Weed overgrowth,Summer,Region B,Rainy,Peaty,None,Manual weeding or herbicide application
+Potato,Nutrient deficiency,Autumn,Region D,Rainy,Silty,None,Apply nitrogen-based fertilizer
+Rice,Fungal disease,Autumn,Region A,Dry,Loamy,None,Use antifungal spray ABC
+Rice,Weed overgrowth,Summer,Region C,Dry,Saline,None,Manual weeding or herbicide application
+Rice,Nutrient deficiency,Summer,Region A,Hot,Laterite,None,Apply nitrogen-based fertilizer
+Corn,Drought,Spring,Region C,Humid,Saline,None,Increase irrigation frequency
+Tomato,Pest infestation,Winter,Region A,Dry,Peaty,Whiteflies,Use appropriate pesticide XYZ based on pest type
+Potato,Fungal disease,Spring,Region B,Dry,Black,None,Use antifungal spray ABC
+Tomato,Weed overgrowth,Summer,Region D,Rainy,Peaty,None,Manual weeding or herbicide application
+Tomato,Fungal disease,Autumn,Region B,Dry,Clay,None,Use antifungal spray ABC
+Corn,Pest infestation,Spring,Region A,Rainy,Black,Cabbage Loopers,Use appropriate pesticide XYZ based on pest type
+Corn,Weed overgrowth,Autumn,Region C,Dry,Saline,None,Manual weeding or herbicide application
+Wheat,Weed overgrowth,Autumn,Region B,Humid,Black,None,Manual weeding or herbicide application
+Corn,Pest infestation,Winter,Region D,Rainy,Saline,Fruit Flies,Use appropriate pesticide XYZ based on pest type
+Wheat,Weed overgrowth,Autumn,Region B,Dry,Loamy,None,Manual weeding or herbicide application
+Potato,Fungal disease,Summer,Region D,Hot,Loamy,None,Use antifungal spray ABC
+Corn,Nutrient deficiency,Spring,Region C,Hot,Laterite,None,Apply nitrogen-based fertilizer
+Rice,Nutrient deficiency,Autumn,Region C,Humid,Saline,None,Apply nitrogen-based fertilizer
+Wheat,Fungal disease,Summer,Region B,Dry,Clay,None,Use antifungal spray ABC
+Tomato,Fungal disease,Winter,Region B,Dry,Clay,None,Use antifungal spray ABC
+Rice,Fungal disease,Winter,Region D,Dry,Silty,None,Use antifungal spray ABC
+Rice,Pest infestation,Winter,Region B,Hot,Loamy,Armyworms,Use appropriate pesticide XYZ based on pest type
+Wheat,Weed overgrowth,Winter,Region B,Hot,Peaty,None,Manual weeding or herbicide application
+Tomato,Weed overgrowth,Autumn,Region A,Humid,Black,None,Manual weeding or herbicide application
+Wheat,Nutrient deficiency,Autumn,Region C,Hot,Sandy,None,Apply nitrogen-based fertilizer
+Tomato,Pest infestation,Winter,Region D,Humid,Saline,Armyworms,Use appropriate pesticide XYZ based on pest type
+Corn,Pest infestation,Winter,Region D,Humid,Loamy,Fruit Flies,Use appropriate pesticide XYZ based on pest type
+Tomato,Pest infestation,Spring,Region B,Hot,Black,Whiteflies,Use appropriate pesticide XYZ based on pest type
+Potato,Drought,Autumn,Region B,Dry,Laterite,None,Increase irrigation frequency
+Rice,Weed overgrowth,Winter,Region C,Humid,Sandy,None,Manual weeding or herbicide application
+Wheat,Pest infestation,Summer,Region C,Rainy,Saline,Whiteflies,Use appropriate pesticide XYZ based on pest type
+Corn,Nutrient deficiency,Winter,Region B,Dry,Silty,None,Apply nitrogen-based fertilizer
+Potato,Weed overgrowth,Summer,Region D,Dry,Chalky,None,Manual weeding or herbicide application
+Tomato,Weed overgrowth,Summer,Region C,Hot,Black,None,Manual weeding or herbicide application
+Wheat,Nutrient deficiency,Summer,Region B,Hot,Black,None,Apply nitrogen-based fertilizer
+Potato,Drought,Winter,Region C,Dry,Saline,None,Increase irrigation frequency
+Corn,Drought,Summer,Region B,Rainy,Silty,None,Increase irrigation frequency
+Rice,Drought,Autumn,Region A,Hot,Chalky,None,Increase irrigation frequency
+Wheat,Drought,Summer,Region D,Dry,Loamy,None,Increase irrigation frequency
+Corn,Fungal disease,Summer,Region B,Humid,Clay,None,Use antifungal spray ABC
+Tomato,Weed overgrowth,Autumn,Region D,Rainy,Loamy,None,Manual weeding or herbicide application
+Rice,Drought,Spring,Region A,Humid,Loamy,None,Increase irrigation frequency
+Potato,Pest infestation,Summer,Region C,Hot,Saline,Fruit Flies,Use appropriate pesticide XYZ based on pest type
+Tomato,Weed overgrowth,Winter,Region D,Hot,Loamy,None,Manual weeding or herbicide application
+Potato,Drought,Summer,Region D,Humid,Black,None,Increase irrigation frequency
+Wheat,Weed overgrowth,Spring,Region B,Dry,Loamy,None,Manual weeding or herbicide application
+Corn,Pest infestation,Autumn,Region C,Rainy,Sandy,Armyworms,Use appropriate pesticide XYZ based on pest type
+Wheat,Pest infestation,Winter,Region D,Humid,Saline,Aphids,Use appropriate pesticide XYZ based on pest type
+Potato,Nutrient deficiency,Spring,Region C,Rainy,Peaty,None,Apply nitrogen-based fertilizer
+Wheat,Pest infestation,Winter,Region C,Hot,Silty,Thrips,Use appropriate pesticide XYZ based on pest type
+Potato,Drought,Winter,Region C,Rainy,Black,None,Increase irrigation frequency
+Corn,Nutrient deficiency,Summer,Region C,Hot,Saline,None,Apply nitrogen-based fertilizer
+Wheat,Pest infestation,Autumn,Region C,Rainy,Clay,Fruit Flies,Use appropriate pesticide XYZ based on pest type
+Wheat,Nutrient deficiency,Spring,Region D,Dry,Clay,None,Apply nitrogen-based fertilizer
+Tomato,Pest infestation,Summer,Region B,Hot,Saline,Stink Bugs,Use appropriate pesticide XYZ based on pest type
+Rice,Fungal disease,Autumn,Region D,Rainy,Peaty,None,Use antifungal spray ABC
+Wheat,Nutrient deficiency,Autumn,Region C,Humid,Black,None,Apply nitrogen-based fertilizer
+Corn,Fungal disease,Spring,Region D,Dry,Black,None,Use antifungal spray ABC
+Rice,Nutrient deficiency,Spring,Region A,Hot,Sandy,None,Apply nitrogen-based fertilizer
+Potato,Drought,Summer,Region D,Hot,Peaty,None,Increase irrigation frequency
+Corn,Nutrient deficiency,Summer,Region B,Hot,Clay,None,Apply nitrogen-based fertilizer
+Rice,Weed overgrowth,Spring,Region B,Dry,Silty,None,Manual weeding or herbicide application
+Tomato,Nutrient deficiency,Spring,Region D,Humid,Laterite,None,Apply nitrogen-based fertilizer
+Corn,Fungal disease,Autumn,Region C,Humid,Laterite,None,Use antifungal spray ABC
+Potato,Weed overgrowth,Spring,Region D,Rainy,Silty,None,Manual weeding or herbicide application
+Potato,Drought,Summer,Region D,Rainy,Loamy,None,Increase irrigation frequency
+Wheat,Fungal disease,Spring,Region C,Dry,Peaty,None,Use antifungal spray ABC
+Wheat,Drought,Summer,Region C,Rainy,Sandy,None,Increase irrigation frequency
+Potato,Drought,Spring,Region D,Humid,Peaty,None,Increase irrigation frequency
+Tomato,Nutrient deficiency,Spring,Region C,Rainy,Laterite,None,Apply nitrogen-based fertilizer
+Corn,Drought,Autumn,Region C,Humid,Silty,None,Increase irrigation frequency
+Tomato,Pest infestation,Summer,Region D,Hot,Peaty,Cabbage Loopers,Use appropriate pesticide XYZ based on pest type
+Tomato,Pest infestation,Spring,Region A,Rainy,Black,Cutworms,Use appropriate pesticide XYZ based on pest type
+Tomato,Nutrient deficiency,Summer,Region C,Humid,Laterite,None,Apply nitrogen-based fertilizer
+Tomato,Pest infestation,Spring,Region D,Humid,Saline,Spider Mites,Use appropriate pesticide XYZ based on pest type
+Tomato,Drought,Spring,Region A,Rainy,Saline,None,Increase irrigation frequency
+Corn,Pest infestation,Spring,Region B,Dry,Sandy,Whiteflies,Use appropriate pesticide XYZ based on pest type
+Potato,Weed overgrowth,Summer,Region B,Hot,Laterite,None,Manual weeding or herbicide application
+Corn,Nutrient deficiency,Autumn,Region D,Dry,Saline,None,Apply nitrogen-based fertilizer
+Wheat,Pest infestation,Spring,Region A,Humid,Black,Thrips,Use appropriate pesticide XYZ based on pest type
+Rice,Weed overgrowth,Summer,Region B,Dry,Black,None,Manual weeding or herbicide application
+Wheat,Nutrient deficiency,Summer,Region B,Dry,Peaty,None,Apply nitrogen-based fertilizer
+Tomato,Drought,Spring,Region C,Hot,Loamy,None,Increase irrigation frequency
+Rice,Pest infestation,Spring,Region B,Dry,Silty,Armyworms,Use appropriate pesticide XYZ based on pest type
+Rice,Pest infestation,Summer,Region B,Rainy,Loamy,Cutworms,Use appropriate pesticide XYZ based on pest type
+Rice,Nutrient deficiency,Winter,Region D,Dry,Chalky,None,Apply nitrogen-based fertilizer
+Wheat,Nutrient deficiency,Autumn,Region D,Dry,Silty,None,Apply nitrogen-based fertilizer
+Tomato,Fungal disease,Spring,Region C,Humid,Loamy,None,Use antifungal spray ABC
+Corn,Drought,Summer,Region C,Humid,Clay,None,Increase irrigation frequency
+Tomato,Fungal disease,Summer,Region D,Rainy,Clay,None,Use antifungal spray ABC
+Tomato,Pest infestation,Spring,Region A,Hot,Laterite,Fruit Flies,Use appropriate pesticide XYZ based on pest type
+Tomato,Nutrient deficiency,Autumn,Region A,Rainy,Peaty,None,Apply nitrogen-based fertilizer
+Tomato,Pest infestation,Summer,Region C,Dry,Sandy,Stink Bugs,Use appropriate pesticide XYZ based on pest type
+Rice,Nutrient deficiency,Summer,Region C,Humid,Silty,None,Apply nitrogen-based fertilizer
+Tomato,Weed overgrowth,Spring,Region A,Dry,Silty,None,Manual weeding or herbicide application
