@@ -3,7 +3,7 @@ import joblib
 import pandas as pd
 
 # Load model
-model = joblib.load(r"C:\Users\Administrator\PycharmProjects\crop-recommendation-system\models\crop_recommendation_model.pkl")
+model = joblib.load(r"models/crop_recommendation_model.pkl")
 
 # UI Layout
 st.title("Crop Treatment Recommendation System 🌾")
